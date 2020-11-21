@@ -7,8 +7,8 @@
 import numpy as np
 import pandas as pd
 
-# df = pd.read_csv('aggregated.csv', nrows=1000000)# 5 129 354
-df = pd.read_csv('aggregated.csv')
+df = pd.read_csv('aggregated.csv', nrows=1000)# 5 129 354
+#df = pd.read_csv('aggregated.csv')
 
 
 # In[2]:
